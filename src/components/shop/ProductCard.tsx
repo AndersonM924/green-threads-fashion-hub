@@ -1,6 +1,6 @@
 
 import { useState } from "react";
-import { Info, ShoppingBag } from "lucide-react";
+import { Info, ShoppingBag, Leaf } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 interface ProductCardProps {
